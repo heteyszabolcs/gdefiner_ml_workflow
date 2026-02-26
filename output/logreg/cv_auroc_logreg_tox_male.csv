@@ -1,0 +1,6 @@
+model,fold,auroc
+logreg_tox_male,0,0.8078817733990147
+logreg_tox_male,1,0.7733990147783252
+logreg_tox_male,2,0.7487684729064039
+logreg_tox_male,3,0.7976190476190477
+logreg_tox_male,4,0.8188775510204082

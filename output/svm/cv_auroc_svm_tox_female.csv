@@ -1,0 +1,6 @@
+model,fold,auroc
+svm_tox_female,0,0.9821428571428571
+svm_tox_female,1,0.9876543209876543
+svm_tox_female,2,0.8724279835390947
+svm_tox_female,3,0.8703703703703703
+svm_tox_female,4,0.6736111111111112

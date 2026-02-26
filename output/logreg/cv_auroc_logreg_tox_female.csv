@@ -1,0 +1,6 @@
+model,fold,auroc
+logreg_tox_female,0,0.8705357142857143
+logreg_tox_female,1,1.0
+logreg_tox_female,2,0.8724279835390947
+logreg_tox_female,3,0.8518518518518519
+logreg_tox_female,4,0.5555555555555556

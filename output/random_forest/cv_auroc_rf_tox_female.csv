@@ -1,0 +1,6 @@
+model,fold,auroc
+rf_tox_female,0,0.9241071428571429
+rf_tox_female,1,0.9403292181069959
+rf_tox_female,2,0.794238683127572
+rf_tox_female,3,0.9467592592592592
+rf_tox_female,4,0.8888888888888888
